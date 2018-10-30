@@ -56,4 +56,6 @@ are you a light user and only listen to a handful of artists each month? or are 
 <p>I've never cared that much for money beyond making a living. With the sheer capacity for automation in technology today,
 The ability to function as a non-profit in the tech space has never been easier.</p>
 
+--------------------------------------------------------------------------------------------------------------------------------------
+
 <h4>ShiftMusic is built upon a fork from the amazing work of phanan and everyone who contributed to the koel platform, we are eternally grateful for your hard work and dedication.</h4>
