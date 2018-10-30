@@ -10,8 +10,6 @@ Based around the hybrid royalty concept of the marriage between 'user-centric li
 
 <p>Project Shift is entirely about pushing the music industry to the best it can be.</p>
 
-<h4>ShiftMusic is built upon a fork from the amazing work of phanan and everyone who contributed to the koel platform, we are eternally grateful for your hard work and dedication.</h4>
-
 <h2>Q&A</h2>
 
 <h3>What is ‘user-centric licensing’?</h3>
@@ -57,3 +55,5 @@ are you a light user and only listen to a handful of artists each month? or are 
 
 <p>I've never cared that much for money beyond making a living. With the sheer capacity for automation in technology today,
 The ability to function as a non-profit in the tech space has never been easier.</p>
+
+<h4>ShiftMusic is built upon a fork from the amazing work of phanan and everyone who contributed to the koel platform, we are eternally grateful for your hard work and dedication.</h4>
