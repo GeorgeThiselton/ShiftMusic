@@ -1,6 +1,8 @@
 <h1>Project: Shift</h1>
 <h2>Open source, non-profit music streaming service.</h2>
 
+<h4>ShiftMusic is built upon a fork from the amazing work of phanan and everyone who contributed to the koel platform, we are eternally grateful for your hard work and dedication.</h4>
+
 <p>ShiftMusic is digital music streaming at its fairest,
 Based around the hybrid royalty concept of the marriage between 'user-centric licensing' and 'pro-rata'.</p>
 
