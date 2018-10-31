@@ -1,15 +1,7 @@
 <h2>Credits</h2>
 
 <h3>Donors</h3>
-<p>Jack Smart</p>
-<p>Kaia Wallis</p>
-<p>Mick danis</p>
-<p>Nicole Wallis</p>
-<p>Samuel Smith</p>
-<p>Vicki Wallis</p>
-
-<h3>Development</h3>
-<p>George Thiselton</p>
+<p>Jack Smart, Kaia Wallis, Mick danis, Nicole Wallis, Samuel Smith, Vicki Wallis</p>
 
 <h3>Development Resources</h3>
 <p>Reece Kenney</p>
@@ -18,9 +10,7 @@
 <p>Steven Crook</p>
 
 <h3>Advisory</h3>
-<p>Ethan Ross</p>
-<p>Sharky Laguana</p>
-<p>Tim Price</p>
+<p>Ethan Ross, Sharky Laguana, Tim Price</p>
 
 <h3>Royalty-Free Music</h3>
 <p><a href="https://www.bensound.com/" target="_blank">Bensounds</a></p>
