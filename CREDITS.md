@@ -23,5 +23,5 @@
 <p>Tim Price</p>
 
 <h3>Royalty-Free Music</h3>
-<a href="https://www.bensound.com/" target="_blank">Bensounds</a>
-<a href="https://www.vaultofvalor.com/" target="_blank">Vault of Valor</a>
+<p><a href="https://www.bensound.com/" target="_blank">Bensounds</a></p>
+<p><a href="https://www.vaultofvalor.com/" target="_blank">Vault of Valor</a></p>
