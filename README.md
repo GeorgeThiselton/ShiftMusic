@@ -58,4 +58,4 @@ The ability to function as a non-profit in the tech space has never been easier.
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-<h4>ShiftMusic is built upon a fork from the amazing work of <a href="https://github.com/phanan" target="_blank">phanan</a> and everyone who contributed to the <a href="https://github.com/phanan/koel" target="_blank">koel</a> platform, we are eternally grateful for your hard work and dedication. You can view a full list of credits <a href="https://github.com/GeorgeThiselton/ShiftMusic/blob/master/CREDITS.md" target="_blank">here</a></h4>
+<h4>ShiftMusic is built upon a fork from the amazing work of <a href="https://github.com/phanan" target="_blank">phanan</a> and everyone who contributed to the <a href="https://github.com/phanan/koel" target="_blank">koel</a> platform, we are eternally grateful for your hard work and dedication. You can view a full list of credits <a href="https://github.com/GeorgeThiselton/ShiftMusic/blob/master/CREDITS.md" target="_blank">here.</a></h4>
